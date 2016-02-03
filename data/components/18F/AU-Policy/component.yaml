@@ -32,7 +32,12 @@ satisfies:
     AU-2 (3):
       implementation_status: null
       narrative: |
-        The Devops and SecOps teams review all events that can be audited on a real time basis using its event and monitoring solution for Cloud.Gov and through captured user and event api calls within its virtual infrastructure.
+        Created draft 18F Audit and Accounting policy  which states in section 3--
+        Audit Monitoring, Analysis and Reporting
+        - 18F establishes processes for regularly reviewing audit log information, and reporting security issues if discovered. Reviews will occur at a minimum of weekly. These processes are integrated with processes for incident response, in order to ensure standardization and cross-functional collaboration
+        - 18F employs automated mechanisms to integrate audit monitoring, analysis and reporting into an overall process for investigation and response to suspicious activities.
+        - 18F employs automated mechanisms to immediately alert security personnel of inappropriate or unusual activities that have security implications.
+
     references:
       - verification: POLICY_DOC
 

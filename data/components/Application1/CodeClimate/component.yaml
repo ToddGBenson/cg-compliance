@@ -1,0 +1,19 @@
+documentation_complete: false
+name: Code Climate
+references:
+- name: Code Climate Site
+  path: https://codeclimate.com/
+  type: URL
+verifications:
+  CODECLIMATE_APP_BADGE:
+     name: Application1 Badge
+     path: https://codeclimate.com/github/18F/jekyll_pages_api/badges/gpa.svg
+     type: Image
+satisfies:
+  NIST-800-53:
+    SA-11 (1):
+      narrative: Each branch / deployment is first verif... 
+      implementation_status: true
+      references:
+        - verification: CODECLIMATE_APP_BADGE
+
