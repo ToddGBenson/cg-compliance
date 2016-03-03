@@ -1,4 +1,4 @@
-# FedRAMP Moderate System Security Plan
+# LATO
 ### 18F - Cloud.Gov  
 
 * [About the SSP](system_documentation/about-the-ssp.md)

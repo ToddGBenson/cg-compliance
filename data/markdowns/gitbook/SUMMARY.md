@@ -1,6 +1,6 @@
 
 
-# FedRAMP Moderate System Security Plan
+# LATO System Security Plan
 
 ***This SSP was created using [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) and the documentation source is stored on [Cloud.gov's Compliance Repository](https://github.com/18F/cg-compliance)***  
 
